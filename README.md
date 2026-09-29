@@ -1,3 +1,7 @@
+> **📌 Notes from Nixon Varghese**
+> Forked from [killer-sh/cks-course-environment](https://github.com/killer-sh/cks-course-environment) as a reference for **CKS lab environment setup**. Used while preparing for the Certified Kubernetes Security Specialist exam.
+> All credit for the content goes to the original authors.
+
 # Kubernetes CKS Course Environment
 
 This is the repository of the [CKS FULL COURSE](https://youtu.be/d9xfB5qaOfg) on Youtube
